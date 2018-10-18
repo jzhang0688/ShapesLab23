@@ -10,7 +10,6 @@ public class Rect extends Shape
     {
         super("Rect");
         this.height = height;
-
         this.length = length;
     }
 
